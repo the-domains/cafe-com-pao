@@ -3,28 +3,26 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-11T14:04:37.715Z'
-dateModified: '2016-03-11T14:04:20.181Z'
+description: 'Não, não é metaforicamente que digo isso, mas literalmente. Eu passava ao menos uma hora todas as tardes olhando o por do sol a partir do topo da minha casa. Do alto daquela lage na Vila Nova Cachoeirinha, podia ver as luzes iluminando as nuvens de várias cores. No extremo oeste, o sol se escondia e a partir daquele ponto eu podia ver uma vasta extensão da cidade, do Alto da Lapa no lado esquerdo à Vila Maria no extremo oposto. Bem à minha frente, uma linha quase reta de altos prédios se estendia de oeste a leste, ininterrupta. Entre outras coisas, podia ver o relógio do Itaú, quase legível, no Conjunto Nacional. A torre do edifício Grande Avenida e a outra torre, maior e iluminada de amarelo, no prédio da Gazeta. A partir dessa linha contínua no ponto mais alto e distante, uma larga área mais baixa se amontoava em morros e nervuras. Daquele ponto privilegiado, nenhum obstáculo próximo se interpunha à paisagem. Com o tempo eu aprendi a identificar os bairros, as construções. Bem perto, logo na rua de baixo, havia a casa de alguns amigos da escola. Um pouco adiante, a própria escola, onde eu podia ver as crianças do outro turno jogando bola na quadra. No terceiro plano, avenidas cheias de casas e prédios e igrejas e outras escolas se acumulavam em morrinhos. Mas nenhum deles era alto o bastante para alterar a impressão de que tudo até o centro era um grande vale, que só voltava a subir em direção ao espigão da paulista muito mais à frente. Em algum lugar, a meio caminho, eu sabia que existia o rio Tietê. Também deduzia o local da pista do Campo de Marte, pelos aviões que mergulhavam e desapareciam e pelos outros que surgiam do meio das construções.'
+datePublished: '2016-03-28T14:18:34.689Z'
+dateModified: '2016-03-28T14:09:15.201Z'
 title: Horizontes
 author: []
+sourcePath: _posts/2016-03-11-horizontes.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-11-horizontes.md
-published: true
 url: horizontes/index.html
 _type: Article
 
 ---
-### Horizontes
-
-Desde criança eu era adepto de filosofias e filosofices. Não é que isso seja um interesse muito comum em pessoas dessa idade, nem é porque eu seja especial que esse interesse apareceu em mim. O fato é que eu tinha um horizonte maior. 
+### Desde criança eu era adepto de filosofias e filosofices. Não é que isso seja um interesse muito comum em pessoas dessa idade, nem é porque eu seja especial que esse interesse apareceu em mim. O fato é que eu tinha um horizonte maior. 
 
 Não, não é metaforicamente que digo isso, mas literalmente. Eu passava ao menos uma hora todas as tardes olhando o por do sol a partir do topo da minha casa. Do alto daquela lage na Vila Nova Cachoeirinha, podia ver as luzes iluminando as nuvens de várias cores. No extremo oeste, o sol se escondia e a partir daquele ponto eu podia ver uma vasta extensão da cidade, do Alto da Lapa no lado esquerdo à Vila Maria no extremo oposto. Bem à minha frente, uma linha quase reta de altos prédios se estendia de oeste a leste, ininterrupta. Entre outras coisas, podia ver o relógio do Itaú, quase legível, no Conjunto Nacional. A torre do edifício Grande Avenida e a outra torre, maior e iluminada de amarelo, no prédio da Gazeta. A partir dessa linha contínua no ponto mais alto e distante, uma larga área mais baixa se amontoava em morros e nervuras. Daquele ponto privilegiado, nenhum obstáculo próximo se interpunha à paisagem. Com o tempo eu aprendi a identificar os bairros, as construções. Bem perto, logo na rua de baixo, havia a casa de alguns amigos da escola. Um pouco adiante, a própria escola, onde eu podia ver as crianças do outro turno jogando bola na quadra. No terceiro plano, avenidas cheias de casas e prédios e igrejas e outras escolas se acumulavam em morrinhos. Mas nenhum deles era alto o bastante para alterar a impressão de que tudo até o centro era um grande vale, que só voltava a subir em direção ao espigão da paulista muito mais à frente. Em algum lugar, a meio caminho, eu sabia que existia o rio Tietê. Também deduzia o local da pista do Campo de Marte, pelos aviões que mergulhavam e desapareciam e pelos outros que surgiam do meio das construções.
 
