@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Não, não é metaforicamente que digo isso, mas literalmente. Eu passava ao menos uma hora todas as tardes olhando o por do sol a partir do topo da minha casa. Do alto daquela lage na Vila Nova Cachoeirinha, podia ver as luzes iluminando as nuvens de várias cores. No extremo oeste, o sol se escondia e a partir daquele ponto eu podia ver uma vasta extensão da cidade, do Alto da Lapa no lado esquerdo à Vila Maria no extremo oposto. Bem à minha frente, uma linha quase reta de altos prédios se estendia de oeste a leste, ininterrupta. Entre outras coisas, podia ver o relógio do Itaú, quase legível, no Conjunto Nacional. A torre do edifício Grande Avenida e a outra torre, maior e iluminada de amarelo, no prédio da Gazeta. A partir dessa linha contínua no ponto mais alto e distante, uma larga área mais baixa se amontoava em morros e nervuras. Daquele ponto privilegiado, nenhum obstáculo próximo se interpunha à paisagem. Com o tempo eu aprendi a identificar os bairros, as construções. Bem perto, logo na rua de baixo, havia a casa de alguns amigos da escola. Um pouco adiante, a própria escola, onde eu podia ver as crianças do outro turno jogando bola na quadra. No terceiro plano, avenidas cheias de casas e prédios e igrejas e outras escolas se acumulavam em morrinhos. Mas nenhum deles era alto o bastante para alterar a impressão de que tudo até o centro era um grande vale, que só voltava a subir em direção ao espigão da paulista muito mais à frente. Em algum lugar, a meio caminho, eu sabia que existia o rio Tietê. Também deduzia o local da pista do Campo de Marte, pelos aviões que mergulhavam e desapareciam e pelos outros que surgiam do meio das construções.'
-datePublished: '2016-04-15T14:38:43.138Z'
-dateModified: '2016-04-15T14:38:41.650Z'
+datePublished: '2016-04-15T14:39:33.285Z'
+dateModified: '2016-04-15T14:39:18.268Z'
 title: Horizontes
 author: []
 sourcePath: _posts/2016-03-11-horizontes.md
